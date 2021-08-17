@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.subBtn{
+    padding: 2px 4px;
+    background-color: teal;
+    width: 100px;
+    margin-top: 10px;
+}
+
+.info{
+    width: 300px;
+}
+
+.main{
+    display: flex;
+}
+
+.left{
+    flex: 1;
+    padding: 20px;
+}
+
+.right{
+    flex: 1;
+    padding: 20PX;
+}
+
+.subBtn2{
+    padding: 2px 4px;
+    background-color: teal;
+    width: 100px;
+    margin-top: 10px;
+    color: white;
+    border: 1px black solid;
+    box-shadow: 5px 5px 5px black;
+}
